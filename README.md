@@ -52,7 +52,7 @@ gcc bus.c -o bus
 
 ---
 
-## 📸 Sample Menu
+## 📸 Sample Menu List
 
 ```
 BUS RESERVATION SYSTEM
